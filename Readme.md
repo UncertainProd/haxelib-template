@@ -33,5 +33,8 @@ A Readme file, which serves as a basic overview of your haxelib, what it does an
 - `libname/`
 Rename this folder to the name of your haxelib (or to the `classPath` attribute in your haxelib.json file, if you've provided one). And put your `.hx` files in there
 
+- `.gitignore`
+A file containing the names of any files or folders that need to be ignored when making pushing your commits to git and github. [docs](https://git-scm.com/docs/gitignore)
+
 - `include.xml` (optional)
 This file can specify additional XML entries that must be added onto the `Project.xml` file of any application that uses your library in say, a `lime` project. It follows the same format as the [Project.xml format](https://github.com/openfl/lime.openfl.org/blob/master/_docs/project-files/xml-format.md)
