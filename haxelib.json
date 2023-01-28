@@ -1,0 +1,15 @@
+{
+    "name": "",
+    "url" : "",
+    "license": "",
+    "tags": [],
+    "description": "",
+    "version": "",
+    "classPath": "(optional, delete this field if you dont need it)",
+    "releasenote": "",
+    "contributors": [],
+    "dependencies": {
+        "this-is-optional": "only if you have dependencies"
+    },
+    "main": "(optional, remove if you dont need a Main.hx file)"
+}
